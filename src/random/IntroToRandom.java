@@ -16,14 +16,14 @@ public class IntroToRandom {
 		//2. Now make r random. 
 		//   Create an object of the Random class
 		//   Hint: new Random().nextInt()
-
+r=new Random().nextInt(88- -222)+ -222;
 		//3. Limit the random number between 0 and 100
 
 		//4. Limit the random number between 25 and 75. Hint: (highest value - lowest value) + lowest value
 
 		//5. Challenge: Limit the random number between -222 and 88
 
-
+       //6. Eat everything in sight
 		
 		System.out.println(r); 
 	}
