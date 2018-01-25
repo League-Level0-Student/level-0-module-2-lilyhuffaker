@@ -23,7 +23,7 @@ r=new Random().nextInt(88- -222)+ -222;
 
 		//5. Challenge: Limit the random number between -222 and 88
 
-       //6. Eat everything in sight
+     
 		
 		System.out.println(r); 
 	}
